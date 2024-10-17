@@ -105,7 +105,8 @@ Bot_BuscaCEP/
 - [Pandas Documentation](https://pandas.pydata.org/docs/) - Referência para manipulação de dados com Pandas.
 - [AntiCaptcha](https://documentation.botcity.dev/plugins/captcha/) - API para resolver captchas automaticamente.
 - [ChromeDriver Downloads](https://googlechromelabs.github.io/chrome-for-testing/#stable) - Baixe o driver para automação no Chrome.
-- [Vídeo Demo](https://youtu.be/UpRES2uQrhc?si=eesT80Bqys5qhOZo) - Assista o vídeo do projeto em execução 
+- [Vídeo Demo](https://youtu.be/UpRES2uQrhc?si=eesT80Bqys5qhOZo) - Assista o vídeo do projeto em execução
+- [Apresentação](https://www.canva.com/design/DAGRr3c5aW8/PYHcrCxdd7HVlWj9iJfqpg/edit?utm_content=DAGRr3c5aW8&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
 Esses links ajudam a configurar e entender melhor as ferramentas usadas no projeto.
 
