@@ -29,7 +29,7 @@ Este projeto é um bot de automação que utiliza a biblioteca **BotCity** para 
 
 1. Clone este repositório:
    ```bash
-   git clone https://github.com/Millenas/ARGUS.git
+   git clone https://github.com/zl-academy/ARGUS.git
    ```
    
 2. Crie e ative o ambiente virtual:
