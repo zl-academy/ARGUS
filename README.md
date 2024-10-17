@@ -6,10 +6,10 @@ Este repositório centraliza todos os projetos desenvolvidos pelos integrantes d
 
 A equipe **ARGUS** é composta por quatro integrantes, todos com uma paixão por tecnologia e inovação. São eles:
 
-- **Millena Sangela**
+- [**Millena Sangela**](https://github.com/Millenas)
 - **Brena**
-- **Arlana**
-- **Hercules**
+- [**Arlana**](https://github.com/bragaarlana)
+- [**Hercules**](https://github.com/herculesfj)
 
 ## Projetos
 
